@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @2salman-19
-- 👀 I’m interested in Pythhon Developer 
-- 🌱 I’m currently learning Django
-- 📫 How to reach me https://www.linkedin.com/in/salman-siddique-a32a9a1a3/
+- 👀 I’m a data analyst who enjoys documentaing his learning journey 
+- 🌱 I’m currently data science
+- 🌱 I’m open to collaborate on data analysis projects; volunteer otherwise 
+- 📫 let’s connect on [Linkedin](https://www.linkedin.com/in/salman-siddique-a32a9a1a3/)
 
 
 <!---
