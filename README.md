@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2salman-19
+- 👋 Hi, I’m Salman Siddique
 - 👀 I’m a data analyst who enjoys documentaing his learning journey 
 - 🌱 I’m currently data science
 - 🌱 I’m open to collaborate on data analysis projects; volunteer otherwise 
